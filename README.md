@@ -1,18 +1,9 @@
 # RM_C_Board_2025
 
-Code of Robomaster C_Board for P22
+Code of Robomaster C_Board for 2025
 
-更新时间：2023/12/10 @TangLongbin
+更新时间：2025/4/28
 
 ## 介绍
 
-- 无人车驱动模块
-- 使用 RoboMaster C 板进行开发
-
-## 主要部件
-
-- RM-C 板
-- RM 3508 电机 * 4
-- WheelTech G60 GNSS 模块
-- PS2 无线手柄（附带无线接收器）
-- 无线串口模块（用于上位机数据传输）
+更新了并完善之前的C板代码，使其实现自主导航系统的下位机的多项功能
